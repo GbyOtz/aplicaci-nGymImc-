@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597994691408",
+    "project_id": "psfapp-4de63",
+    "storage_bucket": "psfapp-4de63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597994691408:android:2114949a5651231481aa55",
+        "android_client_info": {
+          "package_name": "com.gabrielaAOV.psfapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDQspoC3J3WYRDcvG-MLKRB96BTwGaqjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
